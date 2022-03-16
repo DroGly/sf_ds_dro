@@ -2,10 +2,15 @@
 
 ## Оглавление
 [1. Описание проекта](https://github.com/DroGly/sf_ds_dro/blob/main/README.md#Описание-проекта)
+
 [2. Какой кейс решаем?](https://github.com/DroGly/sf_ds_dro/blob/main/README.md#Какой-кейс-решаем)
+
 [3. Краткая информация о данных](https://github.com/DroGly/sf_ds_dro/blob/main/README.md#Краткая-информация-о-данных)
+
 [4. Этапы работы над проектом](https://github.com/DroGly/sf_ds_dro/blob/main/README.md#Этапы-работы-над-проектом)
+
 [5. Результат](https://github.com/DroGly/sf_ds_dro/blob/main/README.md#Результат)
+
 [6. Вывод](https://github.com/DroGly/sf_ds_dro/blob/main/README.md)
 
 ### Описание проекта
@@ -22,7 +27,9 @@
 - Алгоритм учитывает информацию о том, больше ли случайное число или меньше нужного нам.
 
 **Метрика качества**
+
 Результат оцениваетсяпо среднему количеству 
 
 **Что практикуем**
+
 Учимся писать хорошй код на python
