@@ -11,7 +11,7 @@
 
 [5. Результат](https://github.com/DroGly/sf_ds_dro/tree/main/project_0/README.md#Результат)
 
-[6. Вывод](https://github.com/DroGly/sf_ds_dro/tree/main/project_0/README.md)
+[6. Вывод](https://github.com/DroGly/sf_ds_dro/blob/main/project_0/README.md#вывод)
 
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток
